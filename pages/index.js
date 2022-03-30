@@ -12,7 +12,7 @@ const HomePage = () => {
       <div className={styles.large}>
         <CategoryCard image="https://i.ibb.co/hRkHhXT/game-controller-g297cc6479-640.jpg" name="PC" />
         <CategoryCard
-          image="https://i.ibb.co/hRkHhXT/game-controller-g297cc6479-640.jpg1"
+          image="https://i.ibb.co/hRkHhXT/game-controller-g297cc6479-640.jpg"
           name="Accessories"
         />
       </div>
